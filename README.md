@@ -47,13 +47,6 @@ This project explores the **historical stock prices of HDFC Bank (HDFCBANK.NS)**
 
 ---
 
-## 📷 Sample Output
-
-### ARIMA Forecast with Train, Test, and Future Predictions
-*(Insert plot here as PNG or screenshot)*
-
----
-
 ## 📈 Results
 - The ARIMA model captures the **overall upward trend** of HDFCBANK stock prices.  
 - The test predictions align closely with the actual data.  

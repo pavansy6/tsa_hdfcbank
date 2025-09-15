@@ -34,16 +34,12 @@ This project explores the **historical stock prices of HDFC Bank (HDFCBANK.NS)**
    - Extracted the `Close` column.  
    - Renamed it to `Price`.  
 
-3. **Modeling**  
-   - Applied **ARIMA(5,1,1)** on training data.  
-   - Predicted test set values.  
-   - Forecasted future stock prices beyond available data.  
+3. **Evaluation**  
+   - Calculated **RMSE** for test predictions.
 
-4. **Evaluation**  
-   - Calculated **RMSE** for test predictions.  
-
-5. **Visualization**  
-   - Plotted **train**, **test**, **predictions**, and **future forecasts** with confidence intervals.  
+4. **Residual Analysis**
+   - Outlier detection and removal
+   - Residual Plotting
 
 ---
 
